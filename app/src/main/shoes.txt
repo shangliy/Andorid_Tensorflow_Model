@@ -1,0 +1,10 @@
+class_0_shoes
+class_1_shoes
+class_2_shoes
+class_3_shoes
+class_4_shoes
+class_5_shoes
+class_6_shoes
+class_7_shoes
+class_8_shoes
+class_9_shoes
